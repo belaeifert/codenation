@@ -1,0 +1,14 @@
+.vscode
+.idea
+.env
+.venv
+.pytest_cache
+.desafio_1
+__pychache__
+*pyc
+*.sqlite3
+.python-1-DevWeb
+.jogadores-fifa-2017
+desafio-4
+.ranking
+.env-validador
