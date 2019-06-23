@@ -12,3 +12,6 @@ __pychache__
 desafio-4
 .ranking
 .env-validador
+*/bin/
+*/lib/
+*/lib64
